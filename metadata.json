@@ -1,0 +1,6 @@
+{
+  "name": "OSINT Intel Dashboard",
+  "description": "A hacker-themed OSINT reconnaissance dashboard providing aggregated intelligence, DNS records, SSL info, and AI-powered risk analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
